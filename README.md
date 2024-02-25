@@ -44,7 +44,3 @@ for a regular build or
 to include additional debug print statements. If you don't have make, run the compile commands directly with gcc, or another compiler of your choice.
 
 ```gcc main.c -o main && gcc db_server.c -o db_server && gcc db_editor.c -o db_editor```
-
-## System Diagram
-![The System Diagram of the ATM system](./system_diagram.png)
-
