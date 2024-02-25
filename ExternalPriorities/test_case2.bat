@@ -1,0 +1,1 @@
+ExternalPriorities.exe test_case_2.csv 0 > output2.csv
