@@ -3,25 +3,24 @@
 OVERVIEW:
 - This program implements a simple OS kernel scheduling simulator using the C programming language. It implements 3 scheduling algorithms (FCFS, External Priorities, and Round Robin), as well as a memory management algorithm.
 
-This ZIP Folder is split into 4 sub folders + README.md file + :
+This project  Folder is split into 4 sub folders + README.md file:
 1. `README.md`: this is read file you are currently reading.
-2. `Assignment 2 - SYSC4001.pdf`: this file contains all the theory answers listed for Part 1 and 2 of this assignment.
-3. FCFS Folder:
+2. FCFS Folder:
 	1. `FCFS.c`: this file contains the C code that we wrote that implements a first come first serve algorithm.
 	2. `FCFS.exe`: this is the executable file for the project.
 	3. `Test files test_case_1.csv -> test_case_10.csv`: there are 10 test .csv files that can be used to test the algorithm
 	4. `Batch files test1.bat -> test10.bat`: there are 10 .bat files that will be used to run the test_case_1.csv -> test_case_10.csv test files.
-4.  ExternalPriorities Folder:
+3.  ExternalPriorities Folder:
 	1. `ExternalPriorities.c`: this file contains the C code that we wrote that implements the external priorties algorithm.
 	2. `ExternalPriorities.exe`: this is the executable file for the project.
 	3. `Test files test_case_1.csv -> test_case_10.csv`: there are 10 test .csv files that can be used to test the algorithm
 	4. `Batch files test1.bat -> test10.bat`: there are 10 .bat files that will be used to run the test_case_1.csv -> test_case_10.csv test files.
-5.  RoundRobin Folder:
+4.  RoundRobin Folder:
 	1. `RoundRobin.c`: this file contains the C code that we wrote that implements the round robin algorithm.
 	2. `RoundRobin.exe`: this is the executable file for the project.
 	3. `Test files test_case_1.csv -> test_case_11.csv`: there are 11 test .csv files that can be used to test the algorithm
 	4. `Batch files test1.bat -> test11.bat`: there are 11 .bat files that will be used to run the test_case_1.csv -> test_case_11.csv test files.
-6.  MemoryManagement Folder (Implemented using First Fit Algorithm):
+5.  MemoryManagement Folder (Implemented using First Fit Algorithm):
 	1. `MemoryManagement.c`: this file contains the C code that we wrote that implements the MemoryManagement algorithm for the first partition given to us in the assignment document.
 	2. `MemoryManagement.exe`: this is the executable file for the project.
 	3. `Test files test_case_1_P1.csv -> test_case_10_P1.csv`: there are 10 test .csv files that can be used to test the algorithm with this partition.
