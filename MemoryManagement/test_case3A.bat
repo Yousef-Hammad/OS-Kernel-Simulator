@@ -1,0 +1,1 @@
+MemoryManagement.exe test_case_3.csv 0 0 > output3A.csv

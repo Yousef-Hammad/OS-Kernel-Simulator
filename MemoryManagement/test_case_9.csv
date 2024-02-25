@@ -1,0 +1,6 @@
+Pid,Arrival Time,Total CPU Time,I/O Frequency,I/O Duration, Memory
+1,0,10,6,1,12
+2,3,10,4,1,102
+3,8,10,9,1,300
+4,11,10,7,1,200
+5,13,10,5,1,350
