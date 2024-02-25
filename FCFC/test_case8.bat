@@ -1,0 +1,1 @@
+FCFS.exe test_case_8.csv 0 > output8.csv
