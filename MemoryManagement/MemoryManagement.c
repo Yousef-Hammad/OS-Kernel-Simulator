@@ -1,16 +1,3 @@
-/*****************************************************
-*      SYSC4001 - F2022 - Assignment 1 Solution      *
-******************************************************
-* By: Ben Earle (BenEarle@cmail.carleton.ca)         *
-******************************************************
-* This sample solution was prepared for Dr. Wainer   *
-* in fall of 2022. This solution uses a linked list  *
-* to store the each states processes. They are       *
-* scheduled in a FIFO manner. If you have any        *
-* questions please do not hesitate to reach out via  *
-* email or during the scheduled lab times.           *
-******************************************************/
-
 // Header file for input output functions
 #include <stdio.h>
 #include <stdlib.h>
